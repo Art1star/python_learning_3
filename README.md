@@ -115,6 +115,12 @@ Returns a description summary for each column in the DataFrame
 •	Mode: The most common value
 •	Returns the mode of the values in the specified axis
 
+### Min
+Returns the min of the values in the specified axis
+
+### Max
+Return the max of the values in the specified axis
+
 ## The Python Journey Continues
 
 With these additional Python concepts and control structures under your belt, you're well on your way to becoming a proficient Python programmer. The world of Python is vast and versatile, and there's always more to explore and learn.
@@ -124,9 +130,3 @@ As you continue your Python journey, don't hesitate to experiment, build project
 Python's rich variety of data types, control structures, and functions make it a versatile and powerful language for various applications. So, dive in and continue exploring the exciting world of Python programming! 🚀
 
 Happy coding! 🐍👨‍💻👩‍💻
-
-### Min
-Returns the min of the values in the specified axis
-
-### Max
-Return the max of the values in the specified axis
